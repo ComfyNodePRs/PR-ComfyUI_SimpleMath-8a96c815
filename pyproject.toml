@@ -1,0 +1,14 @@
+[project]
+name = "comfyui_simplemath"
+description = "custom node for ComfyUI to perform simple math operations"
+version = "1.0.0"
+license = "LICENSE"
+
+[project.urls]
+Repository = "https://github.com/cubiq/ComfyUI_SimpleMath"
+#  Used by Comfy Registry https://comfyregistry.org
+
+[tool.comfy]
+PublisherId = ""
+DisplayName = "ComfyUI_SimpleMath"
+Icon = ""
